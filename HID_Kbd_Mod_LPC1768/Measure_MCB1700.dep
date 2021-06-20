@@ -1,0 +1,175 @@
+Dependencies for Project 'Measure', Target 'MCB1700': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x532C4264)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (.\system_LPC17xx.c)(0x532C4264)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7F68C)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C3354)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C370A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C370A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C370A)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C3354)
+F (.\usb_config.c)(0x532C4264)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\usb_config.o --omf_browse .\obj\usb_config.crf --depend .\obj\usb_config.d)
+I (C:\Keil\ARM\RV31\INC\usb_lib.c)(0x532C3250)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C3250)
+I (C:\Keil\ARM\RV31\INC\rl_usb.h)(0x532C3250)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7F68C)
+I (C:\Keil\ARM\RL\USB\INC\usb.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_def.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_cdc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_cdc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_cls.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_desc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_event.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_cdc_acm.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_cls.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_hw.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbh.h)(0x532C3252)
+F (.\Retarget.c)(0x532C4264)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-DSTDIO-o .\obj\retarget.o --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C3250)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7F68C)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7F68C)
+I (C:\Keil\ARM\ARMCC\include\rt_sys.h)(0x51C7F68C)
+I (C:\Keil\ARM\RV31\INC\rl_usb.h)(0x532C3250)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7F68C)
+I (C:\Keil\ARM\RL\USB\INC\usb.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_def.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_cdc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_cdc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_cls.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_desc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_event.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_cdc_acm.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_cls.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_hw.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbh.h)(0x532C3252)
+I (GLCD.h)(0x532C4264)
+F (.\Measure.c)(0x5AE7676F)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\measure.o --omf_browse .\obj\measure.crf --depend .\obj\measure.d)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C3250)
+I (C:\Keil\ARM\RV31\INC\rl_usb.h)(0x532C3250)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7F68C)
+I (C:\Keil\ARM\RL\USB\INC\usb.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_def.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_cdc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_cdc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_cls.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_desc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_event.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_cdc_acm.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_cls.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_hw.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbh.h)(0x532C3252)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7F68C)
+I (C:\Keil\ARM\ARMCC\include\ctype.h)(0x51C7F68C)
+I (Terminal.h)(0x532C4264)
+I (GLCD.h)(0x532C4264)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C3354)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C370A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C370A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C370A)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C3354)
+I (uart.h)(0x4C8B72E8)
+I (HX8352.h)(0x562DC51E)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7F68C)
+I (Measure.h)(0x532C4264)
+F (.\Mcommand.c)(0x532C4264)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\mcommand.o --omf_browse .\obj\mcommand.crf --depend .\obj\mcommand.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7F68C)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C3354)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C370A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7F68C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C370A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C370A)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C3354)
+I (Measure.h)(0x532C4264)
+F (.\Getline.c)(0x532C4264)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\getline.o --omf_browse .\obj\getline.crf --depend .\obj\getline.d)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C3250)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7F68C)
+I (Terminal.h)(0x532C4264)
+F (.\usbh_ohci_lpc17xx.c)(0x532C4264)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\usbh_ohci_lpc17xx.o --omf_browse .\obj\usbh_ohci_lpc17xx.crf --depend .\obj\usbh_ohci_lpc17xx.d)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C3250)
+I (C:\Keil\ARM\RV31\INC\rl_usb.h)(0x532C3250)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7F68C)
+I (C:\Keil\ARM\RL\USB\INC\usb.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_def.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_cdc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usb_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_cdc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_cls.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_desc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_event.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_adc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_cdc_acm.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_hid.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_msc.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_cls.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbd_hw.h)(0x532C3252)
+I (C:\Keil\ARM\RL\USB\INC\usbh.h)(0x532C3252)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C3354)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C370A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C370A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C370A)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C3354)
+F (.\GLCD_SPI_LPC1700.c)(0x532C4264)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\glcd_spi_lpc1700.o --omf_browse .\obj\glcd_spi_lpc1700.crf --depend .\obj\glcd_spi_lpc1700.d)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x532C3354)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C370A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7F68C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C370A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C370A)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C3354)
+I (GLCD.h)(0x532C4264)
+I (Font_6x8_h.h)(0x532C4264)
+I (Font_16x24_h.h)(0x532C4264)
+F (.\uart.c)(0x55D18C7A)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\uart.o --omf_browse .\obj\uart.crf --depend .\obj\uart.d)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x532C3354)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C370A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7F68C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C370A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C370A)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C3354)
+I (uart.h)(0x4C8B72E8)
+F (.\HX8352.c)(0x562DC476)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\hx8352.o --omf_browse .\obj\hx8352.crf --depend .\obj\hx8352.d)
+I (HX8352.h)(0x562DC51E)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x532C3354)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C370A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7F68C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C370A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C370A)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C3354)
+I (Font_24x16.h)(0x55D43198)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7F68C)
+F (C:\Keil\ARM\RV31\LIB\USB_CM3.lib)(0x532C3626)()
+F (.\Abstract.txt)(0x532C4264)()

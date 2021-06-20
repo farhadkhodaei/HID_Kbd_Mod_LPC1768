@@ -1,0 +1,9 @@
+.\obj\mcommand.o: Mcommand.c
+.\obj\mcommand.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\mcommand.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+.\obj\mcommand.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\mcommand.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\mcommand.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\mcommand.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\mcommand.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\obj\mcommand.o: Measure.h

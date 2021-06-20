@@ -1,0 +1,10 @@
+.\obj\hx8352.o: HX8352.c
+.\obj\hx8352.o: HX8352.h
+.\obj\hx8352.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\obj\hx8352.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\hx8352.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\hx8352.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\hx8352.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\hx8352.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\obj\hx8352.o: Font_24x16.h
+.\obj\hx8352.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h

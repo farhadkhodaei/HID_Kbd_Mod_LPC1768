@@ -1,0 +1,26 @@
+This is an RL-USB-Host Human Interface Device (HID) usage example.
+
+Example functionality:
+ - Clock Settings:
+   - XTAL   =  12 MHz
+   - PLL0   = 400 MHz
+   - PLL1   =  48 MHz
+   - CCLK   = 100 MHz
+   - USBCLK =  48 MHz
+
+This example shows how to use USB Keyboard as terminal input to 
+the device and it uses Graphic LCD as terminal output.
+
+The Measure example is described in detail in the Getting Started
+User's Guide.
+
+The HID_KBD program is a standalone application loaded into
+on-chip flash and available for one target:
+
+MCB1700:   Standalone application for Keil MCB1700 Board using
+           USB Keyboard and Graphic LCD as user interface.
+
+Note: Jumpers position:
+         - "D-"    -> HOST position (3-4 shorted)
+         - "D+"    -> HOST position (3-4 shorted)
+         - "AD0.2" -> ON
